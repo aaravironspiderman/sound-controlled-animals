@@ -1,0 +1,19 @@
+.main_div{
+    margin: 30px;
+        background-color: burlywood;
+        color: black;
+    }
+    
+    .header_div{
+        background-color: grey;
+        color: white;
+    }
+    
+    .main_div button{
+        margin-top: 50px;
+    }
+    
+    body{
+    
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    }
